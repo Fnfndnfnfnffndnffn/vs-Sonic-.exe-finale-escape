@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-600,
+				200
+			],
+			"anim": "2",
+			"fps": 24,
+			"name": "eh",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-600,
+				200
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "idlefull"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-405,
+				416
+			],
+			"anim": "3",
+			"fps": 10,
+			"name": "hi",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-600,
+				200
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLeft",
+			"indices": [],
+			"name": "idlefull"
+		},
+		{
+			"offsets": [
+				-600,
+				200
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRight",
+			"indices": [],
+			"name": "idlefull"
+		},
+		{
+			"offsets": [
+				-600,
+				200
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUp",
+			"indices": [],
+			"name": "idlefull"
+		},
+		{
+			"offsets": [
+				-600,
+				200
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDown",
+			"indices": [],
+			"name": "idlefull"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sonic",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 2.9
+}

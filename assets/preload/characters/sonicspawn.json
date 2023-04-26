@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-640,
+				200
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "spawnfull"
+		},
+		{
+			"offsets": [
+				0,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "1",
+			"indices": [],
+			"name": "idlefull"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				100
+			],
+			"anim": "2",
+			"fps": 24,
+			"name": "eh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				248
+			],
+			"anim": "3",
+			"fps": 24,
+			"name": "hi",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sonic",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 2.9
+}

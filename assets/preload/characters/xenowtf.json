@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1555,
+				70
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "xeno_idle"
+		},
+		{
+			"offsets": [
+				-1469,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "xeno_left"
+		},
+		{
+			"offsets": [
+				-1559,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "xeno_down"
+		},
+		{
+			"offsets": [
+				-1551,
+				123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "xeno_up"
+		},
+		{
+			"offsets": [
+				-1557,
+				76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "xeno_right"
+		},
+		{
+			"offsets": [
+				-1510,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "where",
+			"indices": [],
+			"name": "where"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/xenowtf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "xenomad",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		0,
+		115
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}
